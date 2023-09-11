@@ -130,9 +130,9 @@ CORS_ALLOW_CREDENTIALS = True
 # EMAIL_HOST = '0.0.0.0'
 # EMAIL_PORT = 1025
 EMAIL_HOST = 'sandbox.smtp.mailtrap.io'
-EMAIL_HOST_USER = '775306a16b85f2'
-EMAIL_HOST_PASSWORD = '02278b3fa2b080'
-EMAIL_PORT = '2525'
+EMAIL_HOST_USER = '********'
+EMAIL_HOST_PASSWORD = '**********'
+EMAIL_PORT = '***'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
